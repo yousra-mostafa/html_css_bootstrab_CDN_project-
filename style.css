@@ -478,6 +478,9 @@ footer .iconss {
 }
 .team__member{
   height: 139vh;
+
+  width: 860px;
+  margin: auto;
 }
 .img1 {
   width: 120px;
