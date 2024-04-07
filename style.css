@@ -451,3 +451,67 @@ footer .iconss {
 
 
 
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .header-img {
+    /* position: absolute; */
+    width: 100%;
+  }
+  header{
+    width: 1250px;
+  }
+  .nav2{
+    width: 1250px;
+  }
+  .slider{
+    width: 1250px;
+  }
+  .content1 p {
+    padding: 0px;
+    color: #686058;
+    line-height: 20px;
+    font-size: 15px;
+}
+.header-container {
+  padding: 30px;
+  width: 50%;
+}
+.team__member{
+  height: 139vh;
+}
+.img1 {
+  width: 120px;
+  margin-right: 13px;
+}
+.content h2 {
+  /* padding: 2px 0; */
+  font-size: 15px;
+}
+.content p{
+  line-height: 24px;
+  font-size: 11px;
+}
+.btnn{
+  width: 78px;
+  height: 46px;
+}
+footer .footer1 {
+  line-height: 25px;
+  margin-bottom: 0;
+  width: 1250px;
+}
+.fa-2x{
+  margin: 6px;
+}
+.nav2 h2 {
+  font-weight: 400;
+  font-size: medium;
+}
+.nav2 ul li {
+  font-size: 13px;
+  font-weight: 400;
+}
+.team__member-img img {
+  height: 37rem;
+}
+}
